@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Files","l":"Files()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Files","l":"myMethod()"},{"p":"<Unnamed>","c":"Files","l":"test"}];updateSearchResults();
