@@ -1,4 +1,4 @@
-NAME: Berk's Salt Lamps
+NAME: Berk's_Salt_Lamps
 SKU: 90435765
 PRICE: 12.99
 WEIGHT: 22.5
