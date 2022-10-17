@@ -1,4 +1,4 @@
-# Lab 09 - File Input
+# Lab 05 - File Input
 This lab will focus upon String Manipulation and File Input. If you need to brush up on these topics, a small section will be at the lower portion of this document to catch you up on today's topics!
 
 When downloading this program for your use, make sure to download or pull from the [GitHub](https://github.com/CSU-CompSci-CS162/Lab05Files) to ensure that you have the correct file hierarchy/format needed for this program. For instance, your files should look like this: ![Files](./Files.jpg "Files") 
