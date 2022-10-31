@@ -8,7 +8,7 @@ If this is not the configuration of your files you **WILL** run into problems.
 
 For ease of access, here is the [Javadoc Link](https://www.cs.colostate.edu/~cs163/javadoc/lab09/package-summary.html)
 
-**Note for the createProduct() method: instead of using nextLine() to get the entire line and then sorting out the info from the label, instead use next() to pull the label, and then based on the label, use nextLine() or next() to get the rest of the data.**
+### **Note for the createProduct() method: instead of using nextLine() to get the entire line and then sorting out the info from the label, instead use next() to pull the label, and then based on the label, use nextLine() or next() to get the rest of the data.**
 
 ## Pre-Step: Walkthrough
 Before beginning this assignment, it is highly recommended to start in `ShippingMain`'s `main` function and try to walkthrough the program. The `Product` and `ShippingManifest` classes are provided as containers for data, they also have their own methods so it will help to check out those classes.
