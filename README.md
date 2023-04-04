@@ -6,7 +6,7 @@ When downloading this program for your use, make sure to download or pull from t
 If this is not the configuration of your files you **WILL** run into problems.
 (Don't mind the colors, they are for GitHub version control.)
 
-For ease of access, here is the [Javadoc Link](https://www.cs.colostate.edu/~cs163/javadoc/lab09/package-summary.html)
+For ease of access, here is the [Javadoc Link](https://csu-compsci-cs163-4.github.io/Lab09FileInput/package-summary.html)
 
 ### **Note for the createProduct() method: instead of using nextLine() to get the entire line and then sorting out the info from the label, instead use next() to pull the label, and then based on the label, use nextLine() or next() to get the rest of the data.**
 
