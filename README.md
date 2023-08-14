@@ -1,4 +1,4 @@
-# Lab09 Broken EReader
+# Lab05 Broken EReader
 For this lab, you will be building the functionality for an EReader that has been dropped on the ground too many times. It holds all of the basic functionality
 of an ereader, but a large part of the screen is blacked out, so it can only display one line of a book at a time.
 # Step 1 -- Writing the Methods
