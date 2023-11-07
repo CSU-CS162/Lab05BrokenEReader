@@ -1,6 +1,10 @@
 # Lab05 Broken EReader
 For this lab, you will be building the functionality for an EReader that has been dropped on the ground too many times. It holds all of the basic functionality
 of an ereader, but a large part of the screen is blacked out, so it can only display one line of a book at a time.
+
+# Participation
+For participation points, follow good coding practices by writing out pseudocode for the methods you must complete before getting started. Make sure to show this pseudocode to a TA for credit!
+
 # Step 1 -- Writing the Methods
 For this lab, you will be expected to complete the following methods:
 - loadBook(String book)
